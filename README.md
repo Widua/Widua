@@ -1,9 +1,14 @@
 ### Hi there 👋
 My name is Mikołaj 18yo, and I'm programming in Java ( Spring ), in future I want to become a backend developer
+
 😄 Pronouns: https://en.pronouns.page/@Widua
+
 🌱 I’m currently learning: Spring security and algorithms
+
 🔭 I’m currently working on: Algorithms for exam in Python, and JWT in Spring boot
+
 📫 How to reach me: mikolaj.widla@gmail.com
+
 ⚡ Fun fact: I use Arch btw.
 
 <!--
