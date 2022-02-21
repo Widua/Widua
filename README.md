@@ -5,7 +5,7 @@ My name is Mikołaj 18yo, and I'm programming in Java ( Spring ), in future I wa
 
 🌱 I’m currently learning: Spring security and algorithms
 
-🔭 I’m currently working on: Algorithms for exam in Python, and JWT in Spring boot
+🔭 I’m currently working on: Currently I'm learning math for the most important exam in life. So I'm not coding until June 2022
 
 📫 How to reach me: mikolaj.widla@gmail.com
 
