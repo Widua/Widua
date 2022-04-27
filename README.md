@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mikołaj 18yo, and I'm programming in Java ( Spring ), in future I want to become a backend developer
+My name is Mikołaj 20yo, and I'm programming in Java ( Spring ), in future I want to become a backend developer
 
 😄 Pronouns: https://en.pronouns.page/@Widua
 
