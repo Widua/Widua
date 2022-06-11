@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Widua</h1>
 <h3 align="center">Learning-oriented programmer</h3>
 
+<p align="left"> <a href="https://twitter.com/_widua" target="blank"><img src="https://img.shields.io/twitter/follow/_widua?logo=twitter&style=for-the-badge" alt="_widua" /></a> </p>
+
 - 🔭 I’m currently working on [ContactsRefactor](https://github.com/Widua/contactsRefactor)
 
 - 🌱 I’m currently learning **JUnit5, Mockito**
