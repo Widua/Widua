@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [todoMicroservices](https://github.com/Widua/todoMicroservices)
 
-- 🌱 I’m currently learning **JUnit5, Mockito , Microservices**
+- 🌱 I’m currently learning **JUnit5, Mockito, Microservices**
 
 - 🤝 I’m looking for help with [ChangeCase](https://github.com/Widua/changeCase)
 
