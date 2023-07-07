@@ -37,4 +37,5 @@ I'm self-learning Java Developer using Spring Framework. Skilled in building sca
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server/docs)
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Widua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Widua&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) &emsp;
+<a href="https://app.daily.dev"><img src="https://github.com/Widua/Widua/blob/main/devcard.svg" width="200" alt="Widua's Dev Card"/></a>
